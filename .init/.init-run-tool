@@ -1,0 +1,4 @@
+{
+    "command": "PORT=<port> HOST=<host> BROWSER=none npm start",
+    "working_directory": "/home/kavia/workspace/code-generation/burning-man-camp-logistics-manager-121703-121712/burning_man_frontend"
+}

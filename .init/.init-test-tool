@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/burning-man-camp-logistics-manager-121703-121712/burning_man_frontend"
+}
